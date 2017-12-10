@@ -1,6 +1,6 @@
 node {
     stage('cloning the project'){
-        echo 'Hello World'
+        echo 'Hello World......'
         git 'https://github.com/naveend72599/Kirthi-suresh.git'
     }
     stage('Deploy artifacts'){
